@@ -8,94 +8,13 @@
   },
   "stickers" : [
     {
-      "filename" : "andouille.sticker"
+      "filename" : "red.sticker"
     },
     {
-      "filename" : "angoisse.sticker"
+      "filename" : "hebecrevon-test.sticker"
     },
     {
-      "filename" : "appeville.sticker"
-    },
-    {
-      "filename" : "belbeze.sticker"
-    },
-    {
-      "filename" : "bibiche.sticker"
-    },
-    {
-      "filename" : "bitche.sticker"
-    },
-    {
-      "filename" : "bizou.sticker"
-    },
-    {
-      "filename" : "bourre.sticker"
-    },
-    {
-      "filename" : "bouzille.sticker"
-    },
-    {
-      "filename" : "cite_de_froidcul.sticker"
-    },
-    {
-      "filename" : "coudures.sticker"
-    },
-    {
-      "filename" : "epuisay.sticker"
-    },
-    {
-      "filename" : "hebecrevon.sticker"
-    },
-    {
-      "filename" : "le_fion.sticker"
-    },
-    {
-      "filename" : "marant.sticker"
-    },
-    {
-      "filename" : "marre.sticker"
-    },
-    {
-      "filename" : "moisy.sticker"
-    },
-    {
-      "filename" : "montcuq.sticker"
-    },
-    {
-      "filename" : "montfroc.sticker"
-    },
-    {
-      "filename" : "mouais.sticker"
-    },
-    {
-      "filename" : "oust.sticker"
-    },
-    {
-      "filename" : "paimpont.sticker"
-    },
-    {
-      "filename" : "plurien.sticker"
-    },
-    {
-      "filename" : "poil.sticker"
-    },
-    {
-      "filename" : "sainte_verge.sticker"
-    },
-    {
-      "filename" : "saligos.sticker"
-    },
-    {
-      "filename" : "sallespisse.sticker"
-    },
-    {
-      "filename" : "trecon.sticker"
-    },
-    {
-      "filename" : "unverre.sticker"
-    },
-    {
-      "filename" : "vatan.sticker"
+      "filename" : "wlhcuntest.sticker"
     }
   ]
 }
